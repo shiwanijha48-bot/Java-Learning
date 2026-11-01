@@ -72,7 +72,6 @@ public class Demo {
             System.out.println("You are a child");
         }
 
-
         // if, if-else, nested-if, if-else-if ladder
 
         // switch statements
