@@ -16,9 +16,6 @@ public class Demo2 {
                 System.out.println("i is greater then 3");
                 break;
         }
-
-        
-
         // switch --> limited use case -> should evaluate to byte, short, int, char, Enumeration.
         // No duplicate cases allowed.
         // After JDK7 Strings can also be used as switch expression. 
