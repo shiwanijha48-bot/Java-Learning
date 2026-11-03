@@ -18,16 +18,14 @@ public class Demo2 {
         }
 
         
-        // switch --> limited use case -> should evaluate to byte, short, int, char, Enumeration.
-        // No duplicate cases allowed.
-        // After JDK7 Strings can also be used as switch expression. 
-        // After JDK-14 switch is enhanced too much.
+// switch --> limited use case -> should evaluate to byte, short, int, char, Enumeration.
+// No duplicate cases allowed.
+// After JDK7 Strings can also be used as switch expression. 
+// After JDK-14 switch is enhanced too much.
 
-
-        
-        int j = 5;
-        int k = 1;
-        switch(j) {
+ int j = 5;
+ int k = 1;
+ switch(j) {
             case 4:
                 System.out.println("j is 4");
                 break;
