@@ -19,6 +19,7 @@ public class Demo {
             rollNums[i] = x;
             x++;
         }
+        
 
         for(int i=0; i < rollNums.length; i++) {
             System.out.println(rollNums[i]);
