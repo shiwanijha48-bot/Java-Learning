@@ -3,9 +3,7 @@ public class Demo3 {
         // Strings
         String firstName = "Aditya";
         String lastName = "Tandon";
-
         String fullName = firstName + " " + lastName;
-
         System.out.println(fullName);  // Aditya Tandon
     }
 }
