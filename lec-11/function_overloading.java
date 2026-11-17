@@ -1,5 +1,3 @@
-package lec-11;
-
 public class function_overloading {
     public static void main(String[] args) {
         // Function overloading
